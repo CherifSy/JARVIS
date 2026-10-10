@@ -8,7 +8,7 @@ espnet_model_zoo==0.1.7
 flask==2.2.3
 flask_cors==3.0.10
 waitress==2.1.2
-datasets==2.11.0
+datasets==5.0.1
 asteroid==0.6.0
 speechbrain==0.5.14
 timm==0.6.13
